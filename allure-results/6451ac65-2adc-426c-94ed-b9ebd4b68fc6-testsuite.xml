@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1593442152621' stop='1593442187698'>
+    <name>Interaction with WebdriverIO</name>
+    <title>Interaction with WebdriverIO</title>
+    <test-cases>
+        <test-case start='1593442152622' status='passed' stop='1593442187697'>
+            <name>Enter value in field</name>
+            <title>Enter value in field</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.116'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
